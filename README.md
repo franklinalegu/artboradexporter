@@ -90,4 +90,6 @@ The file starts with a `/** ... */` metadata header (`name`, `description`, `ver
 
 ---
 
+**Built by Franklin Alegu**
+
 *Not affiliated with Affinity or Canva. Affinity is a trademark of Canva.*
